@@ -1,0 +1,17 @@
+127.0.0.1 - - [21/Mar/2016:23:52:01 +0200] "GET /mymaven HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [21/Mar/2016:23:52:02 +0200] "GET /mymaven/ HTTP/1.1" 500 2510 http-bio-8080-exec-2 1733
+127.0.0.1 - - [21/Mar/2016:23:52:02 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+127.0.0.1 - - [21/Mar/2016:23:52:26 +0200] "GET /mymaven/index.jsp HTTP/1.1" 200 65 http-bio-8080-exec-4 213
+127.0.0.1 - - [21/Mar/2016:23:52:26 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+127.0.0.1 - - [21/Mar/2016:23:55:08 +0200] "GET /mymaven HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [21/Mar/2016:23:55:08 +0200] "GET /mymaven/ HTTP/1.1" 200 65 http-bio-8080-exec-2 135
+127.0.0.1 - - [21/Mar/2016:23:55:08 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+127.0.0.1 - - [21/Mar/2016:23:55:16 +0200] "GET / HTTP/1.1" 404 - http-bio-8080-exec-4 0
+127.0.0.1 - - [21/Mar/2016:23:55:16 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+127.0.0.1 - - [21/Mar/2016:23:55:23 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
+127.0.0.1 - - [21/Mar/2016:23:55:30 +0200] "GET /hello HTTP/1.1" 404 - http-bio-8080-exec-7 0
+127.0.0.1 - - [21/Mar/2016:23:55:30 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
+127.0.0.1 - - [21/Mar/2016:23:55:52 +0200] "GET /mymaven/ HTTP/1.1" 200 65 http-bio-8080-exec-9 4
+127.0.0.1 - - [21/Mar/2016:23:55:52 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-10 0
+127.0.0.1 - - [21/Mar/2016:23:56:08 +0200] "GET /mymaven/ HTTP/1.1" 200 65 http-bio-8080-exec-10 3
+127.0.0.1 - - [21/Mar/2016:23:56:08 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-10 0
